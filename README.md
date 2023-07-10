@@ -6,9 +6,9 @@ This script aims to clear the cache memory and deflate it.<br> Its modification 
 
 Permission: 
 ```sh
-sudo chmod +x commit.sh
+sudo chmod +x clear-cache.sh
 ```
 Usage: 
 ```sh
-./commit.sh
+./clear-cache.sh
 ```
